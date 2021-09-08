@@ -1,2 +1,9 @@
 # twitter-sample
-this is basic twitter like web app
+features :
+registration using API
+login using LocalStorage
+only can fetch existing tweets
+
+upcomming features :
+  can add tweets
+  
